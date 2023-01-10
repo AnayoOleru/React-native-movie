@@ -34,6 +34,6 @@ class SlideShow extends React.Component {
       />
     );
   }
-}
+};
 
 export default SlideShow;
